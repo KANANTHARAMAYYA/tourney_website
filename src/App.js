@@ -1,10 +1,13 @@
 import './App.css';
-
+import { Fcons } from './components/Footer.js/Fcons';
+import { Nutton } from './Nutton';
 function App() {
   return (
     <div>
-    <h1>bom bam</h1>
-    <h2>weoirjo</h2>
+      <Nutton>hello</Nutton>
+      <Nutton>hello</Nutton>
+      <Nutton>hello</Nutton>  
+      <Nutton>hello</Nutton>
     </div>
   );
 }
