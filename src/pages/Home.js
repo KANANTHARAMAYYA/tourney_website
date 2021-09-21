@@ -1,2 +1,6 @@
 import react from "react";
-import 
+
+function Home(){
+    
+}
+export default Home
