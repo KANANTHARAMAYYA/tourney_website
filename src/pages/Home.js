@@ -1,15 +1,10 @@
 import Footer from "../components/Footer/Footer.js";
-import { Cusdiv } from "../Cusdiv.js";
-import Footer from "../components/Nutton.js";
+import Login from "../components/Login/Login.js";
 
 function Home(){
     return (
         <div>
-            <Cusdiv width = "25%" height = " 10%" mtop = "10" mleft = "20">
-                Login
-                <Nutton>UserName</Nutton>
-            
-            </Cusdiv>
+            <Login></Login>
             <Footer></Footer>
         </div>
     );
