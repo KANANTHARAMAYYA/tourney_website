@@ -5,7 +5,7 @@ function Footer(){
         <div>
                   <Fcons onClick={(e) => {
       e.preventDefault();
-      window.location.href='http://twitter.com';
+      window.open('http://twitter.com',"_blank");
       }}>
           <i class="fab fa-twitter" Style="color: #00acee;"></i>
       </Fcons>
