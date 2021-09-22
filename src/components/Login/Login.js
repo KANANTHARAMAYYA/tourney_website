@@ -7,7 +7,7 @@ function Login() {
         <p Style="font-weight: bold">Login</p>
         <Nutton>UserName</Nutton>
         <Nutton>Password</Nutton>
-        <Nutton>Login</Nutton>
+        <Nutton>Login amdflj</Nutton>
     </Cusdiv>
     );
 }
