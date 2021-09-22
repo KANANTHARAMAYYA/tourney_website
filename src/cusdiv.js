@@ -6,7 +6,8 @@ export const Cusdiv = styled.div`
     margin-top : ${(props)=>props.mtop}%;
     margin-left : ${(props)=>props.mleft}%;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    padding : 2px;
     justify-content: space-around;
     align-items: center;
     position: relative;
